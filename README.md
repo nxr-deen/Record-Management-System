@@ -27,16 +27,6 @@ Follow these steps to run the Record Management System on your local machine:
 ### When you run the program, you will see the following menu:
 Choose an option:
 
-1 - Initialize File
-2 - Insert Record
-3 - Search Record
-4 - Delete Record
-5 - Show All Records (excluding empty)
-6 - Show Raw File Content (affichage)
-7 - Exit Enter your choice:
-
-Each option performs a different action within the program:
-
 1. **Initialize File**: Creates or resets the binary file to an empty state.
 2. **Insert Record**: Adds a new record with a unique ID, name, and age.
 3. **Search Record**: Searches for a record based on the unique ID.
