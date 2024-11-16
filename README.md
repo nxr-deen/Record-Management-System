@@ -15,12 +15,13 @@ This is a simple C program that allows users to manage records stored in a binar
 ---
 
 ## How to Run
-
 Follow these steps to run the Record Management System on your local machine:
 
 ### Step 1: Clone the Repository
 ### Step 2: Navigate to the Project Directory
 ### Step 4: Run the Program
+
+---
 
 ## Menu Options
 ### When you run the program, you will see the following menu:
@@ -34,7 +35,6 @@ Choose an option:
 6 - Show Raw File Content (affichage)
 7 - Exit Enter your choice:
 
-
 Each option performs a different action within the program:
 
 1. **Initialize File**: Creates or resets the binary file to an empty state.
@@ -45,6 +45,7 @@ Each option performs a different action within the program:
 6. **Show Raw File Content**: Displays all records, including deleted ones (useful for debugging).
 7. **Exit**: Exits the program.
 
+---
 
 ## Use Cases
 
